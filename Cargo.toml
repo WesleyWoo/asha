@@ -1,12 +1,12 @@
 [package]
 
-name = "hello_world"
+name = "asha"
 version = "0.0.1"
 authors = [ "Wesley Woo <wesley_woo@yeah.com>" ]
 
 [[bin]]
 
-name = "hello_world"
+name = "asha"
 
 [feature]
 

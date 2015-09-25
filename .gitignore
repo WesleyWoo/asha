@@ -43,3 +43,5 @@ Temporary Items
 .apdisk
 target/debug/.fingerprint/hello_world-0c3f555ef12a3dc5/bin-hello_world
 .project
+/target/
+/test.bat
